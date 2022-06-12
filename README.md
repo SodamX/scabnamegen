@@ -4,7 +4,7 @@
 
 # 사용방법
 `scabnamegen.py`파일을 `import`로 가져옵니다!\
-`scabnamegen`함수는 악질이름을 생성후 리턴합니다!
+`scabnamegen`함수는 악질이름을 랜덤으로 생성후 리턴합니다!
 ```python
 import scabnamegen
 
