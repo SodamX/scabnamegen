@@ -3,8 +3,8 @@
 * 이 레포지토리는 그저 재미로 만들어졌습니다.
 
 # 사용방법
-`scabnamegen.py`파일을 불러옵니다.
-`scabnamegen`함수는 악질이름을 랜덤으로 생성후 리턴합니다.
+`scabnamegen.py` 파일을 불러옵니다.
+`scabnamegen` 함수는 악질이름을 랜덤으로 생성후 리턴합니다.
 ```python
 import scabnamegen
 
